@@ -1,4 +1,4 @@
-name: week5
+name: flutter_application_1
 description: A new Flutter project.
 publish_to: 'none'
 version: 0.1.0
@@ -17,6 +17,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - assets/images/lake.jpg
